@@ -33,14 +33,14 @@
 
 .card-head{
     display: flex;
-    justify-content: center;
+
     gap: 15px;
 }
 
 .front-end{
     display: flex;
-    align-items: center;
-    justify-content: space-around;
+    align-items: left;
+justify-content: space-between;
     
 }
 
