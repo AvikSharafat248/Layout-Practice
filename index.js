@@ -4,7 +4,7 @@ let answer1= document.getElementById('answer1')
 show.addEventListener('click', function(){
     if(answer1.style.display==='block'){
         answer1.style.display='none'
-        show.src='images/icon-plus.svg'
+        show.src='./images/icon-plus.svg'
     }else{
         answer1.style.display='block'
         show.src= '/images/icon-minus.svg'
